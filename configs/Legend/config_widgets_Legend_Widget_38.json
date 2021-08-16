@@ -1,0 +1,29 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Crete_ruins_7012": {
+      "selected": true
+    },
+    "Crete_Castle_1249": {
+      "selected": false
+    },
+    "Crete_Aqueduct_4182": {
+      "selected": false
+    },
+    "Crete_city_gates_8649": {
+      "selected": false
+    },
+    "Crete_Archaeological_Site_5918": {
+      "selected": false
+    },
+    "Crete_tombs_5651": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
